@@ -157,5 +157,3 @@ No se asume inicialmente el desarrollo de una plataforma bancaria o de inversió
 ---
 
 **NEXA — Conectar necesidades, recursos y oportunidades.**
-#   n e x a - e c o s i s t e m a - e m p r e n d e d o r  
- 
